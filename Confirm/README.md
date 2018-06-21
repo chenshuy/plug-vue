@@ -6,7 +6,7 @@
 
 ### 1. 在main.js中引入，使用组件
 
-```
+``` javascript
 //main.js:
 
 <!-- 引入 -->
@@ -19,7 +19,7 @@ Vue.use(Confirm);
 
 ### 2. 使用
 
-```
+``` javascript
 // 参数：
 
 export default {
